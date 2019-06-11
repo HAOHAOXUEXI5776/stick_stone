@@ -4,10 +4,10 @@
 src文件夹为项目目录，包含了运行所需的全部文件，将它们放置于微信开发工具小游戏项目的相应位置即可运行。
 
 # 界面一览
-主界面
+##主界面
 ![avatar](figure/home.JPG)
-游戏说明
+##游戏说明
 ![avatar](figure/introduction.JPG)
-游戏界面
+##游戏界面
 ![avatar](figure/game.JPG)
 
